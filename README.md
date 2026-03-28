@@ -84,7 +84,13 @@ Hub ini dimulai dari bahasa-bahasa fondasi yang saat ini dipilih dan dapat terus
 
 ### 2. Execution Hubs
 Lingkungan mesin eksekusi.
-Hub ini menjelaskan tempat kode benar-benar berjalan: browser, server, native runtime, dan model eksekusi lainnya.
+Hub ini menjelaskan tempat kode benar-benar berjalan.
+
+Fokus aktif tahap sekarang adalah:
+- `Browser Runtime`
+- `Server Runtime`
+
+Node runtime lain tidak dihapus dari kemungkinan masa depan, tetapi belum menjadi fokus aktif blueprint saat ini.
 
 ### 3. Digital UI Hubs
 Lapisan presentasi.

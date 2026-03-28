@@ -197,7 +197,7 @@ Pemisahan ini membuat arsitektur belajar lebih sehat:
 - dan konteks kerja tidak tercampur.
 
 ## 14. Struktur Rak Internal di Python Workspace
-Untuk pendalaman Python, workspace turunannya saat ini cocok dibagi menjadi 7 rak utama:
+Untuk pendalaman Python, salah satu struktur awal yang masuk akal untuk workspace turunannya adalah 7 rak utama. Jumlah rak ini tetap dapat berubah mengikuti kebutuhan domain dan bentuk workspace nyatanya:
 
 ### RAK-01: History and Landscape
 Fokus:

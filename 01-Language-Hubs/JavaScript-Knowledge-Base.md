@@ -206,7 +206,7 @@ Pemisahan ini membuat arsitektur belajar lebih sehat:
 - dan konteks kerja tidak tercampur.
 
 ## 14. Struktur Rak Internal di JavaScript Workspace
-Untuk pendalaman JavaScript, workspace turunannya saat ini cocok dibagi menjadi 6 rak utama:
+Untuk pendalaman JavaScript, salah satu struktur awal yang masuk akal untuk workspace turunannya adalah 6 rak utama. Jumlah rak ini tetap dapat berubah mengikuti kebutuhan domain dan bentuk workspace nyatanya:
 
 ### RAK-01: Introduction and Essence
 Fokus:

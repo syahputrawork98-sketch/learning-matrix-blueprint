@@ -194,7 +194,7 @@ Pemisahan ini membuat arsitektur belajar lebih sehat:
 - dan konteks kerja tidak tercampur.
 
 ## 14. Struktur Rak Internal di Golang Workspace
-Untuk pendalaman Go, workspace turunannya sebaiknya dibagi menjadi 6 rak utama:
+Untuk pendalaman Go, struktur awal yang disarankan untuk workspace turunannya adalah 6 rak utama. Jumlah rak ini dapat berkembang atau menyusut mengikuti kebutuhan domain dan bentuk workspace nyatanya:
 
 ### RAK-01: History and Landscape
 Fokus:

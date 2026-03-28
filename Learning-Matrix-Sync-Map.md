@@ -76,6 +76,12 @@ Hub ini menjawab: *bahasa apa yang sedang dipelajari, mengapa penting, dan bagai
 Tempat program bernafas.
 Hub ini menjawab: *bahasa itu berjalan di mana, dengan runtime seperti apa, dan apa konsekuensi teknisnya?*
 
+Fokus aktif saat ini adalah:
+- `Browser Runtime`
+- `Server Runtime`
+
+Node runtime lain yang lebih luas atau lebih platform-spesifik sengaja ditunda sampai taxonomy `RAK-02` benar-benar matang.
+
 ### RAK 03 - Digital UI Hubs
 Tempat software menjadi tampak dan interaktif.
 Hub ini menjawab: *bagaimana hasil komputasi diterjemahkan menjadi pengalaman visual dan interaksi pengguna?*
